@@ -22,9 +22,8 @@ author: Javier Perez
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    None: "None for right now"
+  Author's home: "https://github.com/javierpelayo"
 
 ################
 # --- Logo --- #
