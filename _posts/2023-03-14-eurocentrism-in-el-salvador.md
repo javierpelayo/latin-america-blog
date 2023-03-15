@@ -36,7 +36,7 @@ His name was used in part to name a new guerrilla group, Farabundo Mati National
 
 Around the 1980s several smaller left-wing groups decided to come together under the wing of the FMLN and to oppose El Salvador's government which began a civil war that lasted until 1992.
 
-## In Relation to Quijanos Ideas ([article](https://muse.jhu.edu/article/23906))
+## In Relation to Quijanos Ideas
     
 Going back to 1932 when the ruling elite wanted to use El Salvador's indigenous and mestizo population for cheap labor connects the idea of labor having a subordinate element to it when it came to an era of "post-colonialism".
 
@@ -94,18 +94,14 @@ So as people looking at this we have to ask ourselves whether or not we actually
 
 ## Sources:
 
-https://www.newyorker.com/magazine/2022/09/12/the-rise-of-nayib-bukele-el-salvadors-authoritarian-president
-By Jonathan Blitzer
+["The Rise of Nayib Bukele, El Salvador’s Authoritarian President" by Jonathan Blitzer](https://www.newyorker.com/magazine/2022/09/12/the-rise-of-nayib-bukele-el-salvadors-authoritarian-president)
 
-https://www.nytimes.com/2022/12/07/world/americas/el-salvador-state-of-emergency-crime.html?smid=nytcore-ios-share\&referringSource=articleShare
-By Bryan Avelar and Oscar Lopez
+["El Salvador’s Leader Has Eroded Rights to Tackle Violence. Is It Working?
+" by Bryan Avelar and Oscar Lopez](https://www.nytimes.com/2022/12/07/world/americas/el-salvador-state-of-emergency-crime.html?smid=nytcore-ios-share\&referringSource=articleShare)
 
-https://www.nationalgeographic.com/magazine/article/el-salvador-violence-poverty-united-states-policy-migrants
-By Jason Motlagh
+["Inside El Salvador’s battle with violence, poverty, and U.S. policy" by Jason Motlagh](https://www.nationalgeographic.com/magazine/article/el-salvador-violence-poverty-united-states-policy-migrants)
 
-“Twelve Years a Terror: U.S. Impact in the 12-Year Civil War in El Salvador” by Cara McKinney
-https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1020&context=irj
+[“Twelve Years a Terror: U.S. Impact in the 12-Year Civil War in El Salvador” by Cara McKinney](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1020&context=irj)
 
-“Coloniality of Power, Eurocentrism, and Latin America” by Anibal Quijano 
-https://muse.jhu.edu/article/23906
+[“Coloniality of Power, Eurocentrism, and Latin America” by Anibal Quijano](https://muse.jhu.edu/article/23906)
 
