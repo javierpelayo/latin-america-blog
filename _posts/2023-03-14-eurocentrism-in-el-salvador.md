@@ -8,12 +8,19 @@ tags: [opinion]
 # Modern Eurocentrism In El Salvador
 
 ## Introduction
-    Currently El Salvador is experiencing an extreme reduction in crime due to president Nayib Bukeles policies and passing of new legislation which allows for a more militarized state in order to efficiently weed out criminals.
+Currently El Salvador is experiencing an extreme reduction in crime due to president Nayib Bukeles policies and passing of new legislation which allows for a more militarized state in order to efficiently weed out criminals.
+
 Human rights watchdogs are criticizing his behavior and comparing it to that of a dictator which can put El Salvador in a more unfavorable position in the future, but temporarily his policies do seem to be working.
+
 El Salvador has been in a state of turmoil for quite a while, historically class inequalities, economic downturns, crime and human rights abuses have dominated since it gained "sovereignty" in 1839.
+
 Several revolts and leaders looking for justice and accountability on human rights abuses as well as looking to expel the oligarchy in place and make El Salvador a more equal country have given the Salvadoran people a look into what El Salvador could become.
+
 But the intervention by the United States in its civil war as well as its unsuccessful revolts and the deportation of migrants from the United States who carried a criminal ideology back to El Salvador have kept it in the shadows. 
-Having someone such as Nayib Bukele that is actually doing something about crime and looking to bolster El Salvador on the world stage gives the Salvadoran people a glimmer of hope that one day El Salvador could be something greater but this is not without consequences. It seems that this presidency is more-so about desperation from the Salvadoran people than about actually wanting Bukele in office. A desperation that has been caused by the influence of the United States in Latin America and its obsession over its national security rather than the lives of those affected by their support of rogue governments that do not have the people's well-being in mind.
+
+Having someone such as Nayib Bukele that is actually doing something about crime and looking to bolster El Salvador on the world stage gives the Salvadoran people a glimmer of hope that one day El Salvador could be something greater but this is not without consequences.
+
+It seems that this presidency is more-so about desperation from the Salvadoran people than about actually wanting Bukele in office. A desperation that has been caused by the influence of the United States in Latin America and its obsession over its national security rather than the lives of those affected by their support of rogue governments that do not have the people's well-being in mind.
 
 ## Historical Context
     El Salvador's sovereignty began in 1839, but prior to this it was a Spanish colony up to 1821. Similar to other latin american countries, El Salvador was ruled by an elite that had little regard for the indigenous communities, the ruling elite aligned more with Europe than the community that they ruled over. This eurocentrism was noticeable by the indigenous population and in 1932 there was a revolt against these elites which exploited the indigenous and mestizo population  where they saw them as a source of cheap labor in order to be used to industrialize and modernize El Salvador. This revolt came to be known as the "matanza'' and was led by Farbundo Mati. Eventually Farbundo Mati was captured and executed but his name was forever remembered as connected to "social justice and independence", as Care McKinney stated in their [article](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1020&context=irj), they go more in depth as to the role that the United States played in El Salvadors twelve-year civil war. His name was used in part to name a new guerrilla group, Farabundo Mati National Liberation Front (FMLN), which was composed of working class people who were in the fight to produce accountability for the inequalities and violations of human rights in El Salvador which the oligarchy/elites were the main perpetrators of. Around the 1980s several smaller left-wing groups decided to come together under the wing of the FMLN and to oppose El Salvador's government which began a civil war that lasted until 1992. 
