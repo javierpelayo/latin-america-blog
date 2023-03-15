@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Modern Eurocentrism in El Salvador
-subtitle: LATI10 Final Project
 tags: [opinion]
 ---
-
-# Modern Eurocentrism In El Salvador
 
 ## Introduction
 
