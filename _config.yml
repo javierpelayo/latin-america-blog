@@ -20,7 +20,7 @@ author: Javier Perez
 ###############################################
 
 navbar-links:
-  About: "about"
+  About: "aboutme"
   Resources:
     None: "None for right now"
   Author's home: "https://github.com/javierpelayo"
