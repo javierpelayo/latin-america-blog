@@ -22,7 +22,9 @@ This eurocentrism was noticeable by the indigenous population and in 1932 there 
 
 This revolt came to be known as the "la matanza" and was led by Farbundo Mati.
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/9/98/Farabundomarti.jpg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Farabundomarti.jpg)" />
+</p>
 
 Eventually Farbundo Mati was captured and executed but his name was forever remembered as connected to "social justice and independence", as Cara McKinney stated in their [article](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1020&context=irj), they go more in depth as to the role that the United States played in El Salvadors twelve-year civil war.
 
