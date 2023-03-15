@@ -20,7 +20,9 @@ El Salvador's sovereignty began in 1839, but prior to this it was a Spanish colo
     
 This eurocentrism was noticeable by the indigenous population and in 1932 there was a revolt against these elites which exploited the indigenous and mestizo population where they saw them as a source of cheap labor in order to be used to industrialize and modernize El Salvador.
 
-This revolt came to be known as the "matanza" and was led by Farbundo Mati.
+This revolt came to be known as the "la matanza" and was led by Farbundo Mati.
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/9/98/Farabundomarti.jpg)
 
 Eventually Farbundo Mati was captured and executed but his name was forever remembered as connected to "social justice and independence", as Cara McKinney stated in their [article](https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1020&context=irj), they go more in depth as to the role that the United States played in El Salvadors twelve-year civil war.
 
